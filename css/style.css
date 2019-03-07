@@ -1044,6 +1044,7 @@ top: -30px;
   -ms-flex-direction: row;
   flex-direction: row;
   justify-content: space-between;
+    background: linear-gradient(90deg, #efefef 30%, transparent 30%);
 }
 .catalog-and-form .side-bar{
   width: 200px;
@@ -1215,6 +1216,8 @@ top: -30px;
   flex-direction: row;
   justify-content: space-between;
   align-items:center;
+  background: linear-gradient(90deg, #dcdcdc 30%, transparent 30%);
+  background-color: #ebebeb;
 }
 .title-catalog .container1 .left .filter{
   text-transform: uppercase;
